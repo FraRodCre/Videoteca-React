@@ -1,0 +1,30 @@
+.film{
+    text-align: center;
+}
+
+.film__poster {
+    display: inline-block;
+    border-radius: 5px 5px 0px 0px;
+    height: 288px;
+    width: 192px;
+}
+
+.film__title {
+    margin: 0;
+    padding: 0;
+    color: #333333;
+    font-size: .8em;
+    min-height: 30px;
+}
+
+.film__rating{
+    color: #333333;
+    font-size: .8em;
+}
+
+.film__start{
+    color: #333333;
+    font-size: .8em;
+    width: 13px;
+    padding-left: .5em
+}

@@ -1,0 +1,21 @@
+.showcase {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, 12em);
+    grid-gap: 1em;
+    padding: 10px;
+    margin: 0;
+    height: 100%;
+    list-style: none;
+    justify-content: center;
+}
+.showcase__item {
+    border-radius: 5px;
+    padding: 0px;
+    text-decoration: none;
+    background-color: #FFFFFF;
+    box-shadow: 0px 0px 3px 3px rgba(0,0,0,0.25);
+}
+
+a {
+    text-decoration: none;
+}

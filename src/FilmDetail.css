@@ -1,0 +1,95 @@
+.message{
+    color: #333333;
+    font-size: .8em;
+}
+
+.detail__buttonAddRemove{
+    color: #ffffff;
+    background: #333333;
+    border-radius: 1px;
+    line-height: 1.4em;
+    height: 1.4em;
+    text-align: center;
+    width: 2em;
+    padding: 0;
+    margin-left: 0;
+    margin-right: 0.5em;
+    margin-top: 0.5em
+}
+
+.detail__buttonAddRemove:hover{
+    color: #ffffff;
+    background: #a0a0a0;
+    border: 2px solid #333333; 
+}
+
+.detail__header{
+background-position: center;
+background-size: cover;
+background-repeat: no-repeat;
+height: 250px;
+text-align: center;
+line-height: 200px;
+}
+
+.detail__titleHeader {
+    color: #333333;
+    font-size: 3em;
+    background-color: white;
+    opacity: 0.6;
+    width: 100%;
+    height: 100%;
+}
+
+.detail__filmSection{
+    margin: 2%;
+}
+
+.detail__film{
+    float: left;
+    text-align: center;
+    margin-right: 1em;
+}
+
+.detail__filmDescription{
+    float: left;
+}
+
+.detail__rating {
+    margin: 0.5em;
+}
+.detail__ratingSelector {
+    margin-left: 0.5em;
+    line-height: 2em;
+    height: 1.5em;
+    vertical-align: middle;
+    border-radius: 2px;
+}
+
+
+.film__collections {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.collection__label {
+    cursor: pointer;
+}
+
+.collection__item {
+    margin-bottom: 0.3em;
+}
+
+.film__details__itemtitle {
+    font-weight: 1.2em;
+    font-weight: bold;
+    margin-bottom: 0.4em;
+    color: #111;
+}
+
+.film__details__item {
+    margin-left: 0;
+    margin-bottom: 1em;
+    color: #555;
+}

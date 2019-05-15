@@ -1,0 +1,33 @@
+.collection__buttonAceptCancel {
+    color: #ffffff;
+    background: #333333;
+    margin: 1em;
+    padding: 1em;
+    border-radius: 1em;
+}
+
+.collection__buttonAceptCancel:hover{
+    color: #ffffff;
+    background: #a0a0a0;
+    border: 2px solid #333333; 
+}
+
+.remove__film {
+    position: absolute;
+    padding: 0;
+    text-align: center;
+    width: 30px;
+    height: 30px;
+    line-height: 0;
+    font-size: 1.6em;
+    border-radius: 1%;
+    border: 2px solid #fff;
+    background: #333333;
+    color: #fff;
+
+}
+
+.remove__film:hover {
+    background: #a0a0a0;
+    color: #ffffff;
+}

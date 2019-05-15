@@ -1,0 +1,66 @@
+.collections__button {
+    color: #ffffff;
+    background: #333333;
+    margin: 2em;
+    padding: 2em;
+    border-radius: 1em;
+}
+
+.collections__button:hover{
+    color: #ffffff;
+    background: #a0a0a0;
+    border: 2px solid #333333; 
+}
+
+
+.collections__buttonAceptCancel {
+    color: #ffffff;
+    background: #333333;
+    margin: 1em;
+    padding: 1em;
+    border-radius: 1em;
+}
+
+.collections__buttonAceptCancel:hover{
+    color: #ffffff;
+    background: #a0a0a0;
+    border: 2px solid #333333; 
+}
+
+.collection__name {
+    margin: 2em 0;
+}
+
+.collections {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, 26em);
+    grid-gap: 2em;
+    padding: 0;
+    margin: 2em;
+    list-style: none;
+}
+
+.collection__link {
+    text-decoration: none;
+    display: block;
+    color: #333333;
+    border-radius: 5px;
+    border: solid 1px #333333;
+    padding: 1em;
+}
+
+.collection__link:hover {
+    color: #ffffff;
+    background: #333333;
+}
+
+.collection__item__name {
+    font-weight: bold;
+    font-size: 1em;
+    display: block;
+    max-width: 100%;
+}
+
+.collection__item__count {
+    font-size: 0.8em;
+}

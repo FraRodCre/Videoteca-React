@@ -1,0 +1,9 @@
+.star--on, .star--off {
+    width: 32px;
+    margin-right: 2px;
+}
+
+.star--off {
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+}
