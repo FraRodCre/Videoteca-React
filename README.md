@@ -1,4 +1,4 @@
-# Vieteca-React
+# Videoteca-React
 
 Url de acceso:
 [http://localhost:3000/](http://localhost:3000/)
