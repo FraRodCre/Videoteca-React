@@ -3,7 +3,7 @@
 Url de acceso:
 [http://localhost:3000/](http://localhost:3000/)
 
-**Nota: Es necesario añadir en tu API KEY en el fichero VideotacaApps.js en la constante const API_KEY = 'your api key' **
+**Nota: Es necesario añadir en tu API KEY en el fichero VideotacaApps.js en la constante const API_KEY = 'your api key'**
 
 ## Instalación
 
